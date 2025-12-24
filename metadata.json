@@ -1,0 +1,7 @@
+{
+  "name": "Golden Geometric Christmas",
+  "description": "A 3D interactive Christmas tree composed of thousands of golden spheres and gift boxes that transforms into a festive greeting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
